@@ -1,2 +1,4 @@
-/Venv
 /Logs
+/TradingVenv
+/Bots/__pycache__
+/Bots/__Alpaca_API_Keys__.py
